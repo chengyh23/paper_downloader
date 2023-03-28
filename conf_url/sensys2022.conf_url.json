@@ -1,0 +1,8 @@
+{
+    "conf_name": "sensys2022",
+    "conf_url": "https://sensys.acm.org/2022/program/",
+    "conf_ele": [
+        "[[\"[document]\"], [\"html\"], [\"body\"], [\"div\"], [\"div\"], [\"div\"], [\"p\"], [\"strong\"]]"
+    ],
+    "conf_attrs": []
+}

@@ -262,6 +262,9 @@ def clean_temp_folder(args):
 
 
 if __name__ == '__main__':
+    # links = gscholar_pdf_url_from_title('On Utilizing Smartphone Time-of-Flight Sensors to Detect Hidden Spy Cameras')
+    # print(links)
+    # exit(0)
     parser = argparse.ArgumentParser(
         description='Paper downloader',
         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
